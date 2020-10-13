@@ -5,8 +5,8 @@
             <view></view>
             <view class="g-bda">
                 <view bindtap="" class="g-bda-userinfo">
-                    <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}"></image>
-                    <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+                    <image class="userinfo-avatar" src="{{userInfo2.avatarUrl}}"></image>
+                    <text class="userinfo-nickname">{{userInfo2.nickName}}</text>
                 </view>
             </view>
         </view>
